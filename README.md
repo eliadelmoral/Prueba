@@ -1,2 +1,2 @@
 # Prueba
-licencia GNU
+
